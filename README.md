@@ -65,7 +65,7 @@
 | OS                 | - [link](https://drive.google.com/drive/folders/1zoKGhgoGDmDyecauNmoGA1jXF-KtnApw?usp=sharing) <br /> - [Codes written during course github repo](https://github.com/SinghCoder/Operating_Systems) |
 | PPL                | [link](https://drive.google.com/drive/folders/1ONIHWesC8VlS3pppoJdDXinbLR-y5n1N?usp=sharing) |
 | ToC                | [link](https://drive.google.com/drive/folders/1sMLiMFIoXhmIIKeLFvDEpKcQ1NZiJkS-?usp=sharing) |
-| CompGraphics (DEl) | [link](https://drive.google.com/drive/folders/1wOjsZG9qgsXzcwz6B8768o9dpq3Zrr6k?usp=sharing) |
+| CompGraphics (DEl) | - [link](https://drive.google.com/drive/folders/1wOjsZG9qgsXzcwz6B8768o9dpq3Zrr6k?usp=sharing) <br /> - [Project github repo](https://github.com/SinghCoder/compg_game) |
 | CompNet            | - [link](https://drive.google.com/drive/folders/1BwmXSZlMaoWW-v9kW1dJcuEBHHD5AHX8?usp=sharing) <br /> - [Labs and Assignment Github Repo](https://github.com/SinghCoder/Computer-Networks) |
 | Compiler           | - [link](https://drive.google.com/drive/folders/1XAkaljQZ2NjoTzihH9QFmwswAFzSmjpt?usp=sharing) <br /> - [Project Github repo](https://github.com/SinghCoder/Compiler-Construction) |
 | Dstn (DEl)         | - [link](https://drive.google.com/drive/folders/1Uw8cyZV_3QB1p_U7_hZtPlxhBwDOaM0q?usp=sharing) <br /> - [Summary of paper on RAID Survey](https://singhcoder.github.io/Semester6/dstn/RaidSurvey.html) |
