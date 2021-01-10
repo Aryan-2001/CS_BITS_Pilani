@@ -13,6 +13,7 @@
   - [Fourth Year](#fourth-year)
   - [Some Additional Material](#some-additional-material)
   - [Sources/Credits](#sourcescredits)
+  - [Disclaimer](#disclaimer)
 
 </details>
 
@@ -99,3 +100,7 @@ Resources have been collected from various places including but not limited to:
 - Anupam Agarwal Bhaiya drive
 - Rahul Bubna resource collection
 - and many others (I do not know/recall rest of the names)
+
+## Disclaimer
+
+All resources have been added to my drive(except MuP Goa lec videos) and would be available there permanently unless BITS drive access is lost (God knows what would happen then).
