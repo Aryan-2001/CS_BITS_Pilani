@@ -96,5 +96,6 @@ Resources have been collected from various places including but not limited to:
 - Library Papers collection
 - Dezire (DC++)
 - Siddhant Dwivedi Bhaiya drive
+- Anupam Agarwal Bhaiya drive
 - Rahul Bubna resource collection
 - and many others (I do not know/recall rest of the names)
